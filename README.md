@@ -1,4 +1,7 @@
-<<<<<<< HEAD
+link : two-player-tic-tac-toe.vercel.app
+
+
+
 # Two-Player-Tic-Tac-Toe
 A simple 2 Player Tic Tac Toe game made in react 
 =======
