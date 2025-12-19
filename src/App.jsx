@@ -97,5 +97,3 @@ const App = () => {
 }
 
 export default App
-
-//ayush op in the chat guys
